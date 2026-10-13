@@ -1,15 +1,15 @@
 {
   "schemaVersion": 2,
-  "version": "1.3.8",
-  "versionCode": 14,
-  "releaseDate": "2026-10-12T01:37:42.506Z",
-  "sizeBytes": 60097209,
-  "sha256": "0f1cae11bad2d70eac8bc7924676d8dd65c6d88f025602c8ddfa8007e8234e33",
-  "appSourceCommit": "81b22da47eb32d4fc6106ca273206205431ae596",
-  "landingSourceCommit": "50ff4b5bb748debf0c23f809763b3f53e42bbffe",
-  "validationSha256": "5453f141228d1ea167f12b08c9e6e3090ece7eedb15b11c38a1c346820736598",
-  "releaseUrl": "https://github.com/rtxuser41/da3m-downloads/releases/tag/v1.3.8",
-  "apkUrl": "https://github.com/rtxuser41/da3m-downloads/releases/download/v1.3.8/da3m-app-v1.3.8.apk",
-  "checksumUrl": "https://github.com/rtxuser41/da3m-downloads/releases/download/v1.3.8/da3m-app-v1.3.8.sha256",
-  "notes": "تحسين استعادة وتصدير النسخ الاحتياطية وإشعارات النجاح والأخطاء."
+  "version": "1.3.7",
+  "versionCode": 13,
+  "releaseDate": "2026-10-10T17:43:35.660Z",
+  "sizeBytes": 60089017,
+  "sha256": "aefd03deb06c8d8990b1b2acbeba03ebef254475c1deb6f8c9b20e699bb7fe4d",
+  "appSourceCommit": "d69e7f72121b4a6d1f3531a4687c3253661b04b0",
+  "landingSourceCommit": "59d6bf21c001a673bffa5d8ac606f92ad3155c52",
+  "validationSha256": "b504c21b9d6778977552f66214d913cd100fd40d61ce6702612d237d6e453b1d",
+  "releaseUrl": "https://github.com/rtxuser41/da3m-downloads/releases/tag/v1.3.7",
+  "apkUrl": "https://github.com/rtxuser41/da3m-downloads/releases/download/v1.3.7/da3m-app-v1.3.7.apk",
+  "checksumUrl": "https://github.com/rtxuser41/da3m-downloads/releases/download/v1.3.7/da3m-app-v1.3.7.sha256",
+  "notes": "تحسين استعادة النسخ الاحتياطية بصيغة JSON: دمج السجلات الجديدة مع البيانات الحالية دون حذفها."
 }
